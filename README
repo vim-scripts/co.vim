@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=730
+
+This script creates a mapping, ;co, which will comment out a hunk
+of about 20 differant file types.
+
+It's primitive, but I like it.
+
+
